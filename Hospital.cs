@@ -212,9 +212,9 @@ namespace Programacion___Practica_2._1___Gestion_hospital
 
 
         /// <summary>
-        /// 
+        /// Modifica el tratamiento de un paciente
         /// </summary>
-        /// <param name="indiceArray"></param>
+        /// <param name="indiceArray">Índice de la lista paciente.</param>
         public void ModificarTratamiento(int indiceArray)
         {
             string tratamiento;
