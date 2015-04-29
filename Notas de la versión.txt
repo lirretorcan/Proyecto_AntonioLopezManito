@@ -1,0 +1,7 @@
+Versión 1:
+- Añadidos todos los archivos.
+
+Versión 2: 
+- Eliminada la imagen de hospital.
+- Eliminada una carpeta, que era una copia del proyecto.
+
