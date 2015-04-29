@@ -1,0 +1,14 @@
+C:\Users\1DAW\Desktop\1 DAW\PROG\2ª EV\Practica\Entrega 1\Programacion - Practica 2.1 - Gestion hospital\bin\Debug\Programacion - Practica 2.1 - Gestion hospital.exe.config
+C:\Users\1DAW\Desktop\1 DAW\PROG\2ª EV\Practica\Entrega 1\Programacion - Practica 2.1 - Gestion hospital\bin\Debug\Programacion - Practica 2.1 - Gestion hospital.exe
+C:\Users\1DAW\Desktop\1 DAW\PROG\2ª EV\Practica\Entrega 1\Programacion - Practica 2.1 - Gestion hospital\bin\Debug\Programacion - Practica 2.1 - Gestion hospital.pdb
+C:\Users\1DAW\Desktop\1 DAW\PROG\2ª EV\Practica\Entrega 1\Programacion - Practica 2.1 - Gestion hospital\obj\Debug\Programacion - Practica 2.1 - Gestion hospital.csprojResolveAssemblyReference.cache
+C:\Users\1DAW\Desktop\1 DAW\PROG\2ª EV\Practica\Entrega 1\Programacion - Practica 2.1 - Gestion hospital\obj\Debug\Programacion - Practica 2.1 - Gestion hospital.exe
+C:\Users\1DAW\Desktop\1 DAW\PROG\2ª EV\Practica\Entrega 1\Programacion - Practica 2.1 - Gestion hospital\obj\Debug\Programacion - Practica 2.1 - Gestion hospital.pdb
+G:\1º DAW\Programacion\Trimestre 2\Prácticas\bin\Debug\Programacion - Practica 2.1 - Gestion hospital.exe.config
+G:\1º DAW\Programacion\Trimestre 2\Prácticas\obj\Debug\Programacion - Practica 2.1 - Gestion hospital.exe
+G:\1º DAW\Programacion\Trimestre 2\Prácticas\Programacion - Practica 2.1 - Gestion hospital\obj\Debug\Programacion - Practica 2.1 - Gestion hospital.csprojResolveAssemblyReference.cache
+G:\1º DAW\Programacion\Trimestre 2\Prácticas\Programacion - Practica 2.1 - Gestion hospital\obj\Debug\Programacion - Practica 2.1 - Gestion hospital.exe
+G:\1º DAW\Programacion\Trimestre 2\Prácticas\Programacion - Practica 2.1 - Gestion hospital\bin\Debug\Programacion - Practica 2.1 - Gestion hospital.exe.config
+G:\1º DAW\Programacion\Trimestre 2\Prácticas\Programacion - Practica 2.1 - Gestion hospital\bin\Debug\Programacion - Practica 2.1 - Gestion hospital.exe
+G:\1º DAW\Programacion\Trimestre 2\Prácticas\Programacion - Practica 2.1 - Gestion hospital\bin\Debug\Programacion - Practica 2.1 - Gestion hospital.pdb
+G:\1º DAW\Programacion\Trimestre 2\Prácticas\Programacion - Practica 2.1 - Gestion hospital\obj\Debug\Programacion - Practica 2.1 - Gestion hospital.pdb
