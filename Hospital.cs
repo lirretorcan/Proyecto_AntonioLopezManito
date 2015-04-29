@@ -108,7 +108,11 @@ namespace Programacion___Practica_2._1___Gestion_hospital
             N_Pacientes++;
         }
 
-        
+        /// <summary>
+        /// Modifica un paciente creado
+        /// </summary>
+        /// <param name="dni">Dni del paciente</param>
+        /// <param name="posicionPaciente">Posición de la lista del paciente.</param>
 		public void ModificarPaciente(string dni, int posicionPaciente)
         {
             string nombre,
@@ -180,7 +184,10 @@ namespace Programacion___Practica_2._1___Gestion_hospital
         }
 
 
-
+        /// <summary>
+        /// Cambia el médico de un paciente
+        /// </summary>
+        /// <param name="indiceArray">Índice de la lista paciente.</param>
         public void ModificarMedico(int indiceArray)
         {
         	string medico;
@@ -204,7 +211,10 @@ namespace Programacion___Practica_2._1___Gestion_hospital
         }
 
 
-        
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="indiceArray"></param>
         public void ModificarTratamiento(int indiceArray)
         {
             string tratamiento;
