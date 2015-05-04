@@ -22,7 +22,7 @@ namespace Programacion___Practica_2._1___Gestion_hospital
 
     class Program
     {
-
+//
         static Hospital hospital = new Hospital();
 
 

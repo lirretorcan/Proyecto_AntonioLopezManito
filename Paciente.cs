@@ -15,7 +15,7 @@ namespace Programacion___Practica_2._1___Gestion_hospital
     }
 
 
-
+    ljgyklgfykljgfykljfyljkvg
 
     class Paciente
     {
